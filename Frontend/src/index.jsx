@@ -1,7 +1,7 @@
 import React from 'react';
 import * as ReactDOMClient from 'react-dom/client';
 import './index.css';
-import './adminIndex.css';
+// import './adminIndex.css';
 import App from './App';
 import { BrowserRouter as Router } from 'react-router-dom';
 

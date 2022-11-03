@@ -20,6 +20,7 @@ function Header() {
             <ul>
                 <li><Link to="/">Products</Link></li>
                 <li><Link to="/">Login Register</Link></li>
+                <li><Link to="/category">Categories</Link></li>
                 <li>
                     <img src={Close} alt="close" width="30" className='close' />
                 </li>
